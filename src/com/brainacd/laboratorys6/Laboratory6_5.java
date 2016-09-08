@@ -13,7 +13,7 @@ public class Laboratory6_5 {
                         { 2, 2, 3, 4, 1 },
                         { 3, 3, 3, 1, 4 } };
 
-        System.out.println("What we are finding:");
+        System.out.println("Enter the num, please:");
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int num = Integer.parseInt(br.readLine());
 
